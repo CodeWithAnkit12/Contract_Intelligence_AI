@@ -1,0 +1,10 @@
+Answer the question ONLY using the provided context.
+If the answer is not present, say "Not found in the provided documents."
+
+Context:
+{{CONTEXT}}
+
+Question:
+{{QUESTION}}
+
+Return a concise, factual answer.
