@@ -1,6 +1,5 @@
 📄 Contract Intelligence API
 
-AI Developer Assignment – Aviara Labs
 
 An AI-powered backend system that ingests legal contracts (PDFs), extracts structured data, answers questions using Retrieval-Augmented Generation (RAG), audits risky clauses, and streams responses — all running locally via Docker.
 
